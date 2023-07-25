@@ -1,1 +1,1 @@
-# Data_Analytics
+This GitHub project aims to conduct comprehensive data analysis of Diwali sales data for a company using popular Python libraries such as Pandas, NumPy, Seaborn, and Matplotlib. The primary goal of the project is to gain valuable insights into the company's sales performance during the Diwali festive season.
